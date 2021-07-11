@@ -2,6 +2,10 @@
 
 https://nextjs-blog-website-two.vercel.app
 
+<img width="1440" alt="Screenshot 2021-07-11 at 11 07 49 PM" src="https://user-images.githubusercontent.com/74422938/125204886-05cd1000-e29d-11eb-90f5-67a4e5348df0.png">
+
+<img width="1440" alt="Screenshot 2021-07-11 at 11 08 33 PM" src="https://user-images.githubusercontent.com/74422938/125204899-18dfe000-e29d-11eb-9c9d-378ce9d05c14.png">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
