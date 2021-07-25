@@ -8,6 +8,7 @@ export default function GithubLink() {
         justifyContent: "center",
         padding: "20px",
         backgroundColor: "black",
+        marginTop: "40px",
       }}
     >
       <a

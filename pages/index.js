@@ -4,7 +4,6 @@ import Head from "next/head";
 import Hero from "../components/home-page/hero";
 import FeaturedPosts from "../components/home-page/featured-posts";
 import { getFeaturedPosts } from "../lib/posts-utils";
-import GithubLink from "../components/github-link";
 
 export default function HomePage(props) {
   return (
@@ -18,7 +17,6 @@ export default function HomePage(props) {
       </Head>
       <Hero />
       <FeaturedPosts posts={props.posts} />
-      <GithubLink />
     </Fragment>
   );
 }
